@@ -1,5 +1,5 @@
 Welcome to Wind Gate SDK's documentation!
-===================================
+=========================================
 
 Wind Gate SDK为开发人员提供了与硬件交互的接口，用于Python中的应用程序。提供了Python对道闸常见的操作示例和参考代码。
 SDK包括以下API:
@@ -12,10 +12,6 @@ SDK包括以下API:
 * 实时的运行数据
 
 
-
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
