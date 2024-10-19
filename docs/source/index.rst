@@ -1,24 +1,16 @@
 Welcome to Wind Gate SDK's documentation!
 ===================================
 
+Wind Gate SDK为开发人员提供了与硬件交互的接口，用于Python中的应用程序。提供了Python对道闸常见的操作示例和参考代码。
+SDK包括以下API:
 
-The Ouster Sensor SDK provides developers interfaces for interacting with sensor hardware and
-recorded sensor data suitable for prototyping, evaluation, and other non-safety-critical
-applications in Python and C++. Example and reference code is provided for common operations on
-sensor data in both languages. The SDK includes APIs for:
+* 查询和设置道闸主板参数
+* 开闸、关闸和获取闸杆状态
+* 恢复出厂设置
+* 雷达状态
+* 电源板状态
+* 实时的运行数据
 
-* Querying and setting sensor configuration
-* Recording and reading data in pcap format
-* Recording and reading data in Open Sensor Format (OSF)
-* Reading and buffering sensor UDP data streams reliably
-* Conversion of raw data to range/signal/near_ir/reflectivity images (destaggering)
-* Efficient projection of range measurements to Cartesian (x, y, z) coordinates
-* Visualization of multi-beam flash lidar data
-
-Additionally, in Python, the SDK also provides:
-
-* Frame-based access to lidar data as numpy datatypes
-* A responsive visualizer utility for pcap and sensor
 
 
 .. note::
