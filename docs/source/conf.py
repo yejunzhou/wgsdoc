@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Wins Gate SDK'
+copyright = '2024, Wins'
+author = 'Brian'
 
 release = '0.1'
 version = '0.1.3'
