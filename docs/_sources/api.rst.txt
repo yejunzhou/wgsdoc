@@ -1,0 +1,20 @@
+
+API
+===
+
+.. automodule:: wins.core
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
+.. automodule:: wins.motorctrlboard1
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
+.. automodule:: wins.motorctrlboard2
+   :members:
+   :undoc-members:
+   :show-inheritance:
