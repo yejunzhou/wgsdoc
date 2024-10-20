@@ -19,6 +19,11 @@ Contents
 --------
 
 .. toctree::
+   :caption: SDK Reference
+   :hidden:
 
-   usage
-   api
+   OSF <reference/osf>
+   Lidar Scan API <reference/lidar-scan>
+   Python API Reference <python/api/index>
+   C++ API Reference <cpp/api>
+   Changelog <reference/changelog>
