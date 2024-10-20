@@ -1,3 +1,5 @@
+.. title:: Wind Gate SDK
+
 Welcome to Wind Gate SDK's documentation!
 =========================================
 
